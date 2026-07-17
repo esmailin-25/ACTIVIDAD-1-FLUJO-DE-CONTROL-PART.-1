@@ -11,7 +11,7 @@ El programa solicita al usuario el sueldo anual de un empleado. Luego evalúa en
 
 <br>
 
-**EJECUION**
+**EJECUCION**
 
 Capturas de pantalla de los diferentes escenarios ejecutados.
 
