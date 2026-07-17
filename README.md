@@ -9,8 +9,9 @@ Este programa fue desarrollado en C# para calcular el Impuesto Sobre la Renta (I
 
 El programa solicita al usuario el sueldo anual de un empleado. Luego evalúa en qué escala salarial se encuentra y calcula el ISR correspondiente. Si el sueldo está exento de impuestos, muestra "N/A".
 
+<br>
 
-*EJECUCION*
+**Ejecucion**
 
 Capturas de pantalla de los diferentes escenarios ejecutados.
 
