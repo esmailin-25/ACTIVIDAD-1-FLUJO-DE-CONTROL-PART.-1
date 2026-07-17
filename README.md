@@ -12,7 +12,7 @@ El programa solicita al usuario el sueldo anual de un empleado. Luego evalúa en
 
 *EJECUCION*
 
-Agregar aquí las capturas de pantalla de los diferentes escenarios ejecutados.
+Capturas de pantalla de los diferentes escenarios ejecutados.
 
 *Caso 1: No paga ISR*
 <img width="1919" height="1005" alt="Captura de pantalla 2026-07-17 061930" src="https://github.com/user-attachments/assets/66902b97-e81b-43c1-840a-bc891dcf0320" />
