@@ -1,11 +1,11 @@
 ***Actividad 1 - Flujo de Control Parte 1***
 
-*Descripción*
+**Descripción**
 
 Este programa fue desarrollado en C# para calcular el Impuesto Sobre la Renta (ISR) de un empleado según su sueldo anual y las escalas establecidas por la Dirección General de Impuestos Internos (DGII) de la República Dominicana.
 
 
-*Funcionamiento*
+**Funcionamiento**
 
 El programa solicita al usuario el sueldo anual de un empleado. Luego evalúa en qué escala salarial se encuentra y calcula el ISR correspondiente. Si el sueldo está exento de impuestos, muestra "N/A".
 
