@@ -4,6 +4,7 @@
 
 Este programa fue desarrollado en C# para calcular el Impuesto Sobre la Renta (ISR) de un empleado según su sueldo anual y las escalas establecidas por la Dirección General de Impuestos Internos (DGII) de la República Dominicana.
 
+<br>
 
 **Funcionamiento**
 
